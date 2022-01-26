@@ -1,10 +1,2 @@
-### Hi there 👋, my name is shahzoor khan
-#### I am a Python & Web developer
-![My Portfolio site all of my work](https://github.com/shahzoor123/website-porfolio/blob/master/323434.png "Header")
-
-I made this website to showcase my protfolio so that you can see the work that i have done
-
-Skills: HTML/CSS/BOOTSTARP/WORDPRESS/PYTHON
-
-- 🔭 I’m currently working on this page. 
-
+This was my first website that i build it is terrible but the feeling was very great when i made in on simple html/css i love car so i made a site for range rover company
+![Screenshot (28)](https://user-images.githubusercontent.com/49365063/151125352-21b11b84-d194-433f-a383-82089c0088f4.png)
